@@ -1,0 +1,22 @@
+User-agent: AhrefsBot
+User-agent: bingbot
+User-agent: BLEXBot
+User-agent: BUbiNG
+User-agent: dotbot
+User-agent: msnbot
+User-agent: MJ12bot
+User-agent: PetalBot
+User-agent: SemrushBot
+User-agent: SemrushBot-BA
+User-agent: SemrushBot-BM
+User-agent: SemrushBot-SA
+User-agent: SemrushBot-SI
+User-agent: SiteAuditBot
+User-agent: SMTBot
+User-agent: Yandex
+Crawl-delay: 10
+
+User-agent: *
+Crawl-delay: 1
+
+Sitemap: https://alchemyofhearts.mypixieset.com/sitemap.xml
